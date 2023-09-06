@@ -15,6 +15,9 @@ public class Creditos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        principal pr=new principal();
+        pr.setVisible(true);
+        
     }
     
 }
